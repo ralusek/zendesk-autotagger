@@ -1,0 +1,29 @@
+{
+  "name": "zendesk-autotagger",
+  "version": "1.0.0",
+  "description": "Library for pulling tickets from zendesk and having them autotagged. Autotagging currently handled by WitAI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wit.ai",
+    "wit",
+    "ai",
+    "witai",
+    "zendesk",
+    "zen",
+    "desk",
+    "tickets",
+    "tagging",
+    "automatic tagging"
+  ],
+  "author": "Tomas Savigliano",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "node-wit": "^4.2.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1"
+  }
+}
